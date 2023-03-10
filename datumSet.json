@@ -1,0 +1,46 @@
+[
+    {
+        "id": 0,
+        "title": "Google Play Store Nedir? Uygulamalar Buradan mı Yüklenir?",
+        "description": "Google Play Store android işlemci kullanan cep telefonlarının indirme mağazasıdır. Uygulamalar Google Play Store sayesinde telefona yükleniyor ve karşımıza hayatımızı kolaylaştıracak bir çok uygulama çıkıyor. Uygulamaların hem ücretli hem de ücretsiz olanları vardır. Ücretsiz olanlar direkt yüklenebilirken ücretli olanlar için kredi kartları ile ilgili uygulamaları satın alabilirsiniz. GooglePlay'in en güzel özelliği kesinlikle oyunları indirebilmenizdir. Bunun için menüde pek çok farklı seçenek vardır. Yani ücretsiz oyunlara, ücretli oyunlara, popüler olan oyunlara, en çok hasılat yapan oyunlara ve daha pek çok farklı kategoriye giriş yaparak aradığınız oyunları kolaylıkla bulabilirsiniz.",
+        "imageUrl": "https://i.insider.com/6116eac83dd01000199db530?width=1200&format=jpeg"
+    },
+    
+    {
+        "id": 1,
+        "title": "Yukarıdan Aşağı Kaydırdığımızda Gelen Üst Menüdeki Butonlar Nasıl Kullanılmalıdır?",
+        "description": "Bu menüden internet, fener ve benzeri hizmetleri açıp kapatabiliriz burada dikkat edebileceğimiz şeyler wifi ile mobil verinin aynı anda kullanılamayacağı, bluetooth un, ekran parlaklığının yüksek olmasının ve fenerin uzun süre açık kalmasının şarjı hızlıca bitirmesi gibi etkenler. Uçak modu ve Karanlık mod vardır Uçak modu açık olursa kişiye kimse ulaşamaz ama mesaj atabilir telefonu kullanan kişi ise modu kapatana kadar arama yapamaz internete giremez.",
+        "imageUrl": "https://www.petabayt.com/wp-content/uploads/2015/06/galaxy-s6-menu-simgeleri-kayboldu-s.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Arka Planda Çalışan Uygulamalar?",
+        "description": "Telefonunuzun ekranının sağ alt köşesindeki kare gezinme simgesine dokunarak arka planda çalışan tüm uygulamaları görebilirsiniz. Android telefonunuzun pilinin çok hızlı tükenmesinin en yaygın nedenlerinden biride pilinizi tüketebilecek çok fazla uygulama olduğudur. Bu uygulamalar arka planda çalışırlar ve fazladan güç tüketirler. Aynı zamanda Ram’inizi doldurarak telefon hızınızı yavaşlatırlar. Çözüm mü? Çok basit! Arka planda çalışan uygulamaları kapatın gitsin.",
+        "imageUrl": "https://donanimplus.com/wp-content/uploads/2020/07/Arka-Planda-%C3%87al%C4%B1%C5%9Fan-Uygulamalari-kapatmak.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Android Dosya Yöneticisi Kullanımı Hakkında",
+        "description": "Dosya yöneticisi, dosyaları veya klasörleri rahatça yönetebilmek için kullanıcı ara birimi sağlayan bir araç olarak tanımlanır. Mobil cihazlarınızın içerisinde sakladığınız dosyalarınızı görüntüleyebilir, değiştirebilir, kopyalayabilir, taşıyabilir, düzenleyebilir ve silebilirsiniz.",
+        "imageUrl": "https://tonghuix.io/tur/wp-content/uploads/2019/08/1566897854_75_Android-TV-icin-En-Iyi-5-Dosya-Yoneticisi-Uygulamasi.png"
+    },
+    {
+        "id": 4,
+        "title": "Telefon Yavaşlarsa Ne Yapılmalı Veya Yavaşlamaması İçin Neler Yapılabilir?",
+        "description": "Telefonu yeniden başlatma yapacağınız ilk şey olmalıdır. Bu basit ve muhtemelen gereksiz olduğunu düşündüğünüz işlem, telefonunuzu yavaşlatan arka plandaki uygulama işlemlerinin durdurulmasını sağlayacak ve performans artışı sağlayacaktır. Diğer bir yol ise uygulama mağazasından önbellek temizleyici uygulama indirmektir. Kullanılabilir depolama alanını mümkün olduğunca fazla tutmaya çalışın. Kullanılmayan uygulamalar, telefonda depolama alanını kullandığı gibi arka planda çalışıp belleği tüketir. Uygulamaları kaldırmak istemiyorsanız önbelleklerini temizleyebilirsiniz. Ayarlar a girin. Depolama - Diğer Uygulamalara dokunun. Bir uygulamaya dokunun ve Önbelleği temizleyi seçin.",
+        "imageUrl": "https://i.ytimg.com/vi/zLncuzeP0bY/maxresdefault.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Uygulamalar Nasıl Kaldırılır?",
+        "description":"Android cihazlardaki uygulamaları kaldırmak için istediğiniz uygulamaya uzun dokunarak 'Kaldır' seçeneğine sürükleyerek silebilirsiniz. Bir diğer yol olarak ise cihazınızın 'Ayarlar' seçeneğinden 'Uygulamalar' seçeneğine girin. Daha sonra istediğiniz uygulamayı seçerek 'Kaldır' seçeğine dokunarak uygulamayı kaldırabilirsiniz. Android cihazınız ile yüklü olarak gelen uygulamaları kaldırmanız maalesef mümkün değil. Fakat bu uygulamaları devre dışı bırakarak çalışmasını engelleyebilirsiniz. Bunun için 'Ayarlar' sayfasından 'Uygulamalar' seçeneğine girin. İstediğiniz uygulamayı seçip 'Devre dışı bırak'a dokunun.",
+        "imageUrl": "https://img.chip.com.tr/rcman/Cw940h529q95gm/storage/files/images/2022/12/06/androidinizde-yuklu-olabilecek-kotu-amacli-yazilimlar-78S7.jpg"
+    },
+    {
+        "id": 6,
+        "title": "İnternetten Veya Google Play Store dan Telefonumuza İndirdiğimiz Uygulama Uzantısı Apk Nedir?",
+        "description": "APK, Android uygulamalarını dağıtmakta ve yüklemekte kullanılan bir dosya formatı. Bir APK dosyası ise, cihazınızda yükleme yapmak için gerekli tüm öğeleri barındıran bir paket olarak değerlendirilebilir. Windows'un kurulum dosyaları olan EXE dosyaları gibi, Herhangi bir uygulamayı Google Play'den indirip yüklediğinizde, APK dosyası otomatik olarak indirilip yükleniyor. Sitelerden indireceğiniz APK dosyalarının güvenli olduğunun bir garantisi yok o yüzden güvenilir yerden indirmenizi tavsiye ederim.",
+        "imageUrl": "https://techcult.com/wp-content/uploads/2020/06/Safest-Website-For-Android-APK-Download-1-958x575.jpg"
+    }
+
+]
